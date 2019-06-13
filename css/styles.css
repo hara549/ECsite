@@ -144,6 +144,12 @@ table tr{
   font-weight: bold;
 }
 
+/* buy */
+.error {
+  color: red;
+  font-weight: bold;
+}
+
 /* スマホ向けレイアウト */
 /* ブレイクポイントが670px以下の時のメディアクエリを設定 */
 @media (max-width: 670px) {

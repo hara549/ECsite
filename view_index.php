@@ -30,7 +30,7 @@
           <form action="cart.php" method="post">
             <select class="num" name="num">
               <?php
-                for ($i=0; $i <= 9; $i++) {
+                for ($i=1; $i <= 9; $i++) {
                   echo "<option>$i</oprion>";
                 }
               ?>
